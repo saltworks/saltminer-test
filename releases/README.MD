@@ -10,4 +10,4 @@
    Download the latest release ZIP file from the [Releases](https://github.com/saltworks/saltminer/releases) page.
 
    ```sh
-   wget https://github.com/saltworks/saltminer-rd/raw/develop/releases/download/0.0.0/saltminer.zip
+   wget https://raw.githubusercontent.com/saltworks/saltminer-test/refs/heads/main/releases/download/0.0.0/saltminer.zip
